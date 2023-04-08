@@ -1,4 +1,4 @@
-#(Made by:randysgithuubs)
+#(Made by:randysgithuubs on Github)
 
 import turtle
 
