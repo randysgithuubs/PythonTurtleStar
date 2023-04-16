@@ -7,8 +7,7 @@ scr.bgcolor("black")
 
 turtle.showturtle()
 
-
-
+turtle.begin_fill()
 turtle.color("yellow")
 turtle.fillcolor("yellow")
 turtle.shape("turtle")
@@ -24,8 +23,16 @@ for x in range(5):
     turtle.right(length2)
 
 
-
+turtle.end_fill()
 
 turtle.done()
+
+
+
+
+
+
+
+
 
 
